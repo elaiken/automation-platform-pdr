@@ -5,6 +5,10 @@ This repository contains the Product Design Requirements (PDR), operating direct
 ## Contents
 - docs/PDR.md
 - docs/DIRECTIONS.md
+- docs/ARCHITECTURE.md
+- docs/INDUSTRY-PACKS.md
+- docs/SECURITY.md
+- docs/DEMO-FLOWS.md
 
 ## How to use
 Start with docs/PDR.md for the product definition, then follow docs/DIRECTIONS.md for local workflow and documentation conventions.
