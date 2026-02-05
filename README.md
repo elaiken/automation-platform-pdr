@@ -12,6 +12,10 @@ This repository contains the Product Design Requirements (PDR), operating direct
 - docs/UI-WIREFRAME-SPECS.md
 - docs/TECHNICAL-ARCHITECTURE.md
 - docs/BUILD-LOG.md
+- docs/DEMO-SCRIPTS.md
+- docs/DATA-MODEL.md
+- docs/API-SURFACE.md
+- docs/INTEGRATION-CHECKLIST.md
 
 ## How to use
 Start with docs/PDR.md for the product definition, then follow docs/DIRECTIONS.md for local workflow and documentation conventions.
